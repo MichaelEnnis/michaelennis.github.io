@@ -22,15 +22,6 @@ Although it is one thing for a hacker or law enforcement to view the outside of 
 
 {% include youtubePlayer.html id="ZsJSDX0DfSA" %}
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=ZsJSDX0DfSA"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
 
 # Should you install a Ring doorbell in your home?
 
