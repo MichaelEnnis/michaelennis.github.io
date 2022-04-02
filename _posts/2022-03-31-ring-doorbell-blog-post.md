@@ -20,6 +20,8 @@ Another potential security issue for consumers is Ring's partnership with law en
 
 Although it is one thing for a hacker or law enforcement to view the outside of your house without you knowing, it is a much scarier thought when they can see _inside_ your home. Ring is primarily known for its video doorbells, but they also sell full home security systems that allow you to monitor what is happening inside of your home as well. This may not sound like a big deal for the average consumer, but once you know Ring's history with security and the numerous vulnerabilities they have had with their systems in the past, you start to see how this can become a big problem. In this video from TODAY, you can see multiple examples of a hacker using the indoor video camera's two-way talk feature to communicate with their victims. Ring claimed that these attacks were not due to a fault in their security system, but rather the fault of the consumer for not properly securing their network and accounts. However, for a company targetting a wide consumer base that might not have a ton of technical experience, more of the responsibility should be placed on them to keep their products secure.
 
+{% include youtubePlayer.html id="ZsJSDX0DfSA" %}
+
 <iframe
     width="640"
     height="480"
