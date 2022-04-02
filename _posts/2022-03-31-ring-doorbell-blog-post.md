@@ -6,7 +6,7 @@ Have you ever wanted to see who is at your door without closing one eye and peer
 
 # What is the Ring doorbell?
 
-
+The Ring doorbell is a popular internet of things (IoT) device that allows it's user 24/7 access to a live video and audio feed. The doorbell is usually powered by a wired source, usually the same one that your "old-fashioned" doorbell system would be connected to (although some models do have a battery). Most models of the Ring doorbell support two-way talk, a live video feed, and cloud recording. This is all done via the Ring mobile and
 
 
 # Refrences:
